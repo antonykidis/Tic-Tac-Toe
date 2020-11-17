@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/1d1ZAe2a5MuJfluOHQphjVdU63PdBP4H6/view?usp=sharing">
+<img src="https://github.com/antonykidis/Tic-Tac-Toe/blob/master/tictactoeGame.png">
 </br>
 <div>This project contains a single tic-tac-toe.cs file which is an original
 code by Bradley L Jones, from Teach Yourself C# In 21 Days book.
