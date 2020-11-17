@@ -1,5 +1,5 @@
-<img src="https://drive.google.com/file/d/1d1ZAe2a5MuJfluOHQphjVdU63PdBP4H6/view?usp=sharing" alt="TicTacToe" width="500" height="333">
-<div class="Jumbotrone">This project contains a single tic-tac-toe.cs file which is an original
+
+This project contains a single tic-tac-toe.cs file which is an original
 code by Bradley L Jones, from Teach Yourself C# In 21 Days book.
 Originally this game was written using Single file. where Logic, and design embeded in a single file.
 In the book you were compiling the file, and getting the .exe out of it.
@@ -21,4 +21,4 @@ The Main() method was commented in purpose to override compilation errors in the
 	  This code was created Using Graffic Interface. The mouse click wiring were created inside graffic designer.
 	   this.btnTopLeft.Click += new System.EventHandler(this.btnTicTac_Click);
    To make it work simply press F5 to compile and run the programm.
-   </div>
+
