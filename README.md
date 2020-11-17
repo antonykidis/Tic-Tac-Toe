@@ -1,10 +1,10 @@
 
 <img src="https://github.com/antonykidis/Tic-Tac-Toe/blob/master/tictactoeGame.png">
 </br>
-<div>This project contains a single tic-tac-toe.cs file which is an original<br>
+<div>This project also contains a single tic-tac-toe.cs file which is an original
 code by Bradley L Jones, from Teach Yourself C# In 21 Days book.<br>
-Originally this game was written using Single file. where Logic, and design embeded in a single file.<br>
-In the book you were compiling the file, and getting the .exe out of it.<br>
+Originally this game was written using Single file where logic, and design were embeded in a single file.<br>
+In this book you were compiling the files, and getting the .exe out of it using a standalone<br>
 You can still use the single code file.<br>
 1.Download external C# Compiler from https://www.mono-project.com/docs/getting-started/install/windows/ 
 2.Open "OpenCommandPromt.exe" type csc tic-tac-toe.cs and press Enter.<br>
