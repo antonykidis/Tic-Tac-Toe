@@ -20,8 +20,6 @@ The main project was written from scratch using a separation of Design, and Logi
 1.Program.cs file Contains Main() method, which is the main enttry of the programm.<br>
 2.TicTacToeFinal.cs Contains All the logic needed for the game.<br>
 3.TicTacToeFinal.Designer.cs Contains InitializeComponent() method where all the Design code is located<br>
-This code was created Using Graffic Interface. The mouse click wiring were created inside graffic designer.<br>
-this.btnTopLeft.Click += new System.EventHandler(this.btnTicTac_Click);<br>
-To make it work simply press F5 to compile and run the programm.<br>
+
    </div>
 
